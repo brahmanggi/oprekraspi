@@ -13,4 +13,4 @@ Just a various list of raspberry pi projects that i want to try in the future :)
 9. [Raspberry IP Camera configurable through PHP web interface](https://github.com/ronnyvdbr/RaspberryIPCamera)
 10. [A Raspberry Pi-based project for tracking and displaying certain network metrics](https://github.com/HaywardPeirce/Pi-Web-Status-Display)
 11. [WebUI Remote Control for Raspberry](https://github.com/dennmtr/raspberry-remote)
-12. 
+12. [Wardriving PI](https://github.com/MorenoB/WarDrivePi)
